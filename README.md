@@ -40,19 +40,3 @@ To get started with the Power BI dashboard, follow these steps:
 2. Open Power BI Desktop and select "Open" from the File menu.
 3. Browse to the location where you cloned or downloaded the repository and open the Power BI file (.pbix) associated with the dashboard.
 4. Explore the dashboard, interact with the visualizations, and gain insights into people attendance and trends.
-
-## Contributing
-
-Contributions to this Power BI dashboard are welcome! If you have suggestions, bug reports, or would like to add new features, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the dashboard according to your requirements.
-
-## Acknowledgments
-
-Special thanks to the Power BI community for their valuable contributions and resources that helped in creating this dashboard.
-
-## Contact
-
-For any questions or inquiries, please contact patwarinavin9@gmail.com
